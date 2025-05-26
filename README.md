@@ -83,7 +83,7 @@ sudo bash -c 'cat > /etc/security/limits.d/popcache.conf << EOL
 EOL'
 ```
 
-# Now close ur VPS or WSL or Ubuntu Then Open again ur VPS🛑
+# Now close ur VPS  Then Open again ur VPS🛑
 
 # 🛑Make Directory (create folder to be used for download cache)🛑
 ```
