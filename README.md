@@ -42,12 +42,12 @@ sudo systemctl disable pipe
 sudo systemctl daemon-reload
 ```
 
-open port in google cloud 
-| Field                   | Value
-| **Name**                | allow-pipe
-| **Targets**             | All instances in the network
-| **Source IP ranges**    | 0.0.0.0/0` *(allow all incoming)
-| **Protocols and ports** | Check "Specified protocols and ports" 80,443
+# 🛑 open port in google cloud 🛑
+#| Field                   | Value
+# | **Name**                | allow-pipe
+# | **Targets**             | All instances in the network
+# | **Source IP ranges**    | 0.0.0.0/0` *(allow all incoming)
+# | **Protocols and ports** | Check "Specified protocols and ports" 80,443
 
 ```
 sudo useradd -m -s /bin/bash popcache
