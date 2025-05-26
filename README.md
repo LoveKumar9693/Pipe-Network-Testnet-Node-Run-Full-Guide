@@ -254,6 +254,11 @@ sudo systemctl enable popcache
 ```
 sudo systemctl start popcache
 ```
+# 🛑 FOR CHECK YOUR PIPE NODE SCREEN 🛑
+
+```
+screen -r pipe
+```
 
 ### To Stop Node
 
@@ -278,3 +283,6 @@ cd /data
 sudo rm -rf /opt/popcache  # Deletes the 'popcache' binary
 sudo rm -f config.json  # Deletes the 'node_info.json' file
 ```
+# THANK YOU 👍
+
+# JOIN MY CHANLLE - https://t.me/earningloveg
