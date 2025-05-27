@@ -110,7 +110,7 @@ cd /opt/popcache
 # For VPS Only to run in Background
 
 ```
-apt install screen -y
+sudo apt install screen -y
 ```
 ```
 screen -S pipe
