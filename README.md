@@ -258,6 +258,12 @@ sudo systemctl enable popcache
 ```
 sudo systemctl start popcache
 ```
+
+# 🛑CHECK YOUR POPE ID AND SAVE IT 🛑
+
+```
+curl -sk https://localhost/metrics | jq . && curl -sk https://localhost/state | jq . && curl -sk https://localhost/health | jq .
+```
 # 🛑 FOR CHECK YOUR PIPE NODE SCREEN 🛑
 
 ```
