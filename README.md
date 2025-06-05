@@ -126,10 +126,6 @@ screen -S pipe
 # 🛑Then open your vps and paste this command 🛑
 
 ```
-sudo mv ~/pop-v0.3.0-linux-x64.tar.gz /opt/popcache/
-```
-# 🛑🛑 AGAR UPPER WALA COMMAND WORK NA KARE TO YE WALA USE KARNA 🛑🛑
-```
 sudo mv ~/pop-v0.3.0-linux-x64\ .tar.gz /opt/popcache/
 ```
 # 🛑 CHECK YOUR FILE 🛑
